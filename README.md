@@ -3,13 +3,13 @@
 ### 💬 About me
 
 - **Full Name**: Pietro Piva Vieira
-- **Nickname**: Pi (just like the mathematical constant), Marechal Dev, Marechal or Marshall
+- **Nickname**: Pi (just like the mathematical constant)
 - **23 years old**
 - **Based in**: Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
   - Graduated with an [Information Systems Bachelor's of Science Degree from FURG](https://www.furg.br/en/undergraduate-studies/information-system)
-  - On the 3rd Semester of my [Software Engineering Professional Master's Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
+  - On the 3rd Semester of my [Software Engineering Professional Master's of Science Degree at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
     <!-- - On the 1st Semester of my [Computer Science PhD Degree at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) -->
     <!-- - [GoExpert Professional Specialization at FullCycle](https://goexpert.fullcycle.com.br/pos-goexpert/) -->
     <!-- - [.NET Systems Architecture with Azure Professional Specialization at FIAP](https://postech.fiap.com.br/curso/arquitetura-sistemas-net-azure) -->
