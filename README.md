@@ -4,7 +4,7 @@
 
 - **Full Name**: Pietro Piva Vieira
 - **Nickname**: Pi (just like the mathematical constant)
-- **23 years old**
+- **24 years old**
 - **Based in**: Brazil
 - **Hobbies**: Play videogames, watch animes, read books, comics and mangas
 - **Education**:
