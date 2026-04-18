@@ -12,6 +12,7 @@
   - [Software Engineering Professional Master's of Science Degree Candidate at UNIPAMPA](https://cursos.unipampa.edu.br/cursos/ppges/)
     <!-- - On the 1st Semester of my [Computer Science PhD Degree at UFRGS](https://www.inf.ufrgs.br/ppgc/en/doctorate) -->
     <!-- - [GoExpert Professional Specialization at FullCycle](https://goexpert.fullcycle.com.br/pos-goexpert/) -->
+    <!-- - [Distributed Software Architecture Professional Specialization at PUC Minas](https://vemprapuc.pucminas.br/arquitetura-de-software-distribuido-ead-com-videoaulas) -->
 
 ### ✨ Curiosities about me
 
